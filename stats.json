@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T21:14:20.358Z",
+  "updatedAt": "2026-11-25T04:16:37.505Z",
   "downloads": {
     "assetCounts": {
       "5.9/Betafied_5.9.mcaddon": 16,
@@ -78,7 +78,7 @@
       "5.15.1/Betafied_5.15.1.mcaddon": 97,
       "5.15.1/Betafied_5.15.1.mctemplate": 147,
       "5.16/Betafied_5.16.mcaddon": 248,
-      "5.16/Betafied_5.16.mctemplate": 416
+      "5.16/Betafied_5.16.mctemplate": 420
     },
     "history": [
       {
@@ -92,6 +92,10 @@
       {
         "at": 1795554860358,
         "total": 2911
+      },
+      {
+        "at": 1795580197505,
+        "total": 2915
       }
     ]
   },
